@@ -1,0 +1,19 @@
+1. GSOC idea submission.
+2. codechef problems.
+3. optimization study.(linear prog & network flows).
+4. network study.
+5. compilers study.
+6. database study.
+7. projects to onedrive.com/
+8. karumanchi bst problems all.
+9. karumanchi linkedlist problems all.
+10.karumanchi stack problems all.
+11.karumanchi queue problems all.
+12.karumanchi string problems all.
+13.karumanchi hashing problems all.
+14.karumanchi graph problems all.
+15.karumanchi tree problems(avl,binary,btree,b+tree).
+16.careercup problems.
+17.codeforces problems.
+18.spoj problems.
+
